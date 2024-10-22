@@ -18,63 +18,69 @@ A GitHub Action that automatically updates your README file with the latest acti
 ## ✍️ Example
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to a private repo
-2. 📝 Committed to a private repo
-3. 📝 Committed to [IssaC114/activity-log](https://github.com/IssaC114/activity-log/commit/b2a01e02810563d065a3f76a310a444457b6676a)
-4. 📝 Committed to [IssaC114/activity-log](https://github.com/IssaC114/activity-log/commit/d57b71a133b201b5d384f715a5823c46270a4f1b)
-5. 📝 Committed to [IssaC114/activity-log](https://github.com/IssaC114/activity-log/commit/e049a24bd347b480bf7f3165922bf262b9ed87c8)
-6. 📝 Committed to [IssaC114/activity-log](https://github.com/IssaC114/activity-log/commit/e00d9c5a5fee8b600f1ac234b199988521c110f8)
-7. 📝 Committed to [IssaC114/activity-log](https://github.com/IssaC114/activity-log/commit/1433c0fd247295fa8e0c50421c3cfd8875915749)
-8. 📝 Committed to [IssaC114/activity-log](https://github.com/IssaC114/activity-log/commit/002358da62bbb537f306e39520d395d3872dd1fc)
-9. 🍴 Forked [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
-10. 📝 Committed to a private repo
-11. 📝 Committed to a private repo
-12. 📝 Committed to a private repo
-13. 📝 Committed to a private repo
-14. 📝 Committed to a private repo
-15. 📝 Committed to a private repo
-16. 📝 Committed to a private repo
+1. 📝 Committed to [IssaC114/activity-log](https://github.com/IssaC114/activity-log/commit/b214ea08001ca79dd49461f45e78359510dfc782)
+2. 🗑️ Deleted a tag `t6` in [IssaC114/activity-log](https://github.com/IssaC114/activity-log)
+3. 📝 Committed to [IssaC114/activity-log](https://github.com/IssaC114/activity-log/commit/d772401cb11fe8aaf1369a47ea2ce14961550126)
+4. 📝 Committed to [IssaC114/activity-log](https://github.com/IssaC114/activity-log/commit/b85b4dc53fa1bedfda317e3105035cdd40d5960a)
+5. 📝 Committed to [IssaC114/activity-log](https://github.com/IssaC114/activity-log/commit/3f652081ec5d4a6b67530f7c6e9c064f2b7ff39c)
+6. 📝 Committed to [IssaC114/activity-log](https://github.com/IssaC114/activity-log/commit/78be5c6f63bf99d1434dbe71eb1cf54d02d50f38)
+7. 📝 Committed to [IssaC114/activity-log](https://github.com/IssaC114/activity-log/commit/15537b5907e8633b6d1f95560981565599946929)
+8. 📝 Committed to a private repo
+9. 📝 Committed to a private repo
+10. 📝 Committed to [IssaC114/activity-log](https://github.com/IssaC114/activity-log/commit/b2a01e02810563d065a3f76a310a444457b6676a)
+11. 📝 Committed to [IssaC114/activity-log](https://github.com/IssaC114/activity-log/commit/d57b71a133b201b5d384f715a5823c46270a4f1b)
+12. 📝 Committed to [IssaC114/activity-log](https://github.com/IssaC114/activity-log/commit/e049a24bd347b480bf7f3165922bf262b9ed87c8)
+13. 📝 Committed to [IssaC114/activity-log](https://github.com/IssaC114/activity-log/commit/e00d9c5a5fee8b600f1ac234b199988521c110f8)
+14. 📝 Committed to [IssaC114/activity-log](https://github.com/IssaC114/activity-log/commit/1433c0fd247295fa8e0c50421c3cfd8875915749)
+15. 📝 Committed to [IssaC114/activity-log](https://github.com/IssaC114/activity-log/commit/002358da62bbb537f306e39520d395d3872dd1fc)
+16. 🍴 Forked [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
 17. 📝 Committed to a private repo
-18. 🗑️ Deleted a branch `6-as-a-repo-owner-i-need-github-to-automatically-cache-python-dependencies-so-that-subsequent-workflow-runs-can-avoid-reinstalling-the-same-dependencies-and-reduce-overall-execution-time` in a private repo
-19. ❌ Closed an issue in a private repo
+18. 📝 Committed to a private repo
+19. 📝 Committed to a private repo
 20. 📝 Committed to a private repo
-21. 🔀 Merged a PR in a private repo
-22. 📥 Opened a PR in a private repo
+21. 📝 Committed to a private repo
+22. 📝 Committed to a private repo
 23. 📝 Committed to a private repo
 24. 📝 Committed to a private repo
-25. ➕ Created a new branch `4-as-repo-owner-i-need-github-to-automatically-update-readme-to-include-recent-activites-every-two-weeks` in a private repo
-26. ➕ Created a new branch `6-as-a-repo-owner-i-need-github-to-automatically-cache-python-dependencies-so-that-subsequent-workflow-runs-can-avoid-reinstalling-the-same-dependencies-and-reduce-overall-execution-time` in a private repo
-27. 🆕 Opened an issue in a private repo
-28. 🗑️ Deleted a branch `4-as-repo-owner-i-need-github-to-automatically-update-readme-to-include-recent-activites-every-two-weeks` in a private repo
-29. 📝 Committed to a private repo
-30. ❌ Closed an issue in a private repo
-31. 🔀 Merged a PR in a private repo
-32. 📥 Opened a PR in a private repo
-33. 📝 Committed to a private repo
-34. 🗑️ Deleted a branch `HUJU-1--i-` in a private repo
-35. ➕ Created a new branch `4-as-repo-owner-i-need-github-to-automatically-update-readme-to-include-recent-activites-every-two-weeks` in a private repo
-36. 🆕 Opened an issue in a private repo
-37. 📝 Committed to a private repo
-38. ➕ Created a new branch `3-start-web-crawler` in a private repo
-39. ➕ Created a new branch `1-html-pages-change` in a private repo
-40. 🆕 Opened an issue in a private repo
-41. ❌ Closed an issue in a private repo
-42. 🔄 Reopened an issue in a private repo
-43. ❌ Closed an issue in a private repo
-44. 🔄 Reopened an issue in a private repo
-45. ❌ Closed an issue in a private repo
-46. 🆕 Opened an issue in a private repo
-47. 🔄 Reopened an issue in a private repo
+25. 🗑️ Deleted a branch `6-as-a-repo-owner-i-need-github-to-automatically-cache-python-dependencies-so-that-subsequent-workflow-runs-can-avoid-reinstalling-the-same-dependencies-and-reduce-overall-execution-time` in a private repo
+26. ❌ Closed an issue in a private repo
+27. 📝 Committed to a private repo
+28. 🔀 Merged a PR in a private repo
+29. 📥 Opened a PR in a private repo
+30. 📝 Committed to a private repo
+31. 📝 Committed to a private repo
+32. ➕ Created a new branch `4-as-repo-owner-i-need-github-to-automatically-update-readme-to-include-recent-activites-every-two-weeks` in a private repo
+33. ➕ Created a new branch `6-as-a-repo-owner-i-need-github-to-automatically-cache-python-dependencies-so-that-subsequent-workflow-runs-can-avoid-reinstalling-the-same-dependencies-and-reduce-overall-execution-time` in a private repo
+34. 🆕 Opened an issue in a private repo
+35. 🗑️ Deleted a branch `4-as-repo-owner-i-need-github-to-automatically-update-readme-to-include-recent-activites-every-two-weeks` in a private repo
+36. 📝 Committed to a private repo
+37. ❌ Closed an issue in a private repo
+38. 🔀 Merged a PR in a private repo
+39. 📥 Opened a PR in a private repo
+40. 📝 Committed to a private repo
+41. 🗑️ Deleted a branch `HUJU-1--i-` in a private repo
+42. ➕ Created a new branch `4-as-repo-owner-i-need-github-to-automatically-update-readme-to-include-recent-activites-every-two-weeks` in a private repo
+43. 🆕 Opened an issue in a private repo
+44. 📝 Committed to a private repo
+45. ➕ Created a new branch `3-start-web-crawler` in a private repo
+46. ➕ Created a new branch `1-html-pages-change` in a private repo
+47. 🆕 Opened an issue in a private repo
 48. ❌ Closed an issue in a private repo
-49. 🗑️ Deleted a branch `jira-test` in a private repo
-50. ➕ Created a new branch `jira-test` in a private repo
-51. 🗑️ Deleted a branch `jira-test` in a private repo
-52. 🔄 Reopened an issue in a private repo
-53. ❌ Closed an issue in a private repo
-54. 🆕 Opened an issue in a private repo
-55. ➕ Created a new branch `jira-test` in a private repo
-56. 📝 Committed to a private repo
-57. 📝 Committed to a private repo
+49. 🔄 Reopened an issue in a private repo
+50. ❌ Closed an issue in a private repo
+51. 🔄 Reopened an issue in a private repo
+52. ❌ Closed an issue in a private repo
+53. 🆕 Opened an issue in a private repo
+54. 🔄 Reopened an issue in a private repo
+55. ❌ Closed an issue in a private repo
+56. 🗑️ Deleted a branch `jira-test` in a private repo
+57. ➕ Created a new branch `jira-test` in a private repo
+58. 🗑️ Deleted a branch `jira-test` in a private repo
+59. 🔄 Reopened an issue in a private repo
+60. ❌ Closed an issue in a private repo
+61. 🆕 Opened an issue in a private repo
+62. ➕ Created a new branch `jira-test` in a private repo
+63. 📝 Committed to a private repo
 <!--END_SECTION:activity-->
 
 ## 📖Usage
