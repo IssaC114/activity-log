@@ -30423,7 +30423,7 @@ async function fetchAllEvents() {
 
             // Check for API rate limit or pagination issues
             if (events.length === 0) {
-                core.warning('⚠️ No more events available.');
+                core.warning('⚠️ T6: No more events available.');
                 break; // No more events to fetch
             }
 
@@ -32422,6 +32422,7 @@ module.exports = parseParams
 /******/ 	
 /************************************************************************/
 var __webpack_exports__ = {};
+//test
 const { fetchAndFilterEvents } = __nccwpck_require__(8942);
 const { updateReadme } = __nccwpck_require__(695);
 const { username, token, eventLimit, ignoreEvents, readmePath, commitMessage } = __nccwpck_require__(8793);
