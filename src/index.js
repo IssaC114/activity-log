@@ -1,3 +1,4 @@
+//test
 const { fetchAndFilterEvents } = require('./utils/github');
 const { updateReadme } = require('./utils/file');
 const { username, token, eventLimit, ignoreEvents, readmePath, commitMessage } = require('./config');
